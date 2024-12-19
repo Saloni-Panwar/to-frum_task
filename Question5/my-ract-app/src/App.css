@@ -1,0 +1,23 @@
+/* Override btn-outline-secondary styling to dark blue */
+.btn-outline-secondary {
+  color: #003366; /* Dark blue text */
+  border-color: #003366; /* Dark blue border */
+}
+
+.btn-outline-secondary:hover {
+  background-color: #003366; /* Dark blue background on hover */
+  color: #fff; /* White text on hover */
+  border-color: #003366; /* Maintain dark blue border */
+}
+
+.btn-primary{
+  background-color: #003366; /* Dark blue background on hover */
+  color: #fff; /* White text on hover */
+  border-color: #003366; /
+
+}
+  .btn-primary:hover {
+    background-color: #003366; /* Dark blue background on hover */
+    color: #fff; /* White text on hover */
+    border-color: #003366; /* Maintain dark blue border */
+  }
